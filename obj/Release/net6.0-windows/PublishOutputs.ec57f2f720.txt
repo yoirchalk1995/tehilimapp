@@ -1,0 +1,5 @@
+C:\Users\יהודית\source\repos\nameapp\nameapp.exe
+C:\Users\יהודית\source\repos\nameapp\nameapp.dll
+C:\Users\יהודית\source\repos\nameapp\nameapp.deps.json
+C:\Users\יהודית\source\repos\nameapp\nameapp.runtimeconfig.json
+C:\Users\יהודית\source\repos\nameapp\nameapp.pdb
